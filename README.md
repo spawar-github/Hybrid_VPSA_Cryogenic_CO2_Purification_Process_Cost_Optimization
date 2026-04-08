@@ -5,6 +5,10 @@ PLEASE REFER TO THE TABLE BELOW FOR THE RANGE OF THE CO2-N2 ISOTHERMS AND FEED C
 
 <img width="1151" height="991" alt="image" src="https://github.com/user-attachments/assets/d7192351-d616-4b96-bd4c-982c9461fc88" />
 
+;
+;
+;
+;
 
 
 

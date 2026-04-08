@@ -21,5 +21,4 @@ The user interface of the app looks as follows:
 
 
 ================================================================================
-================================================================================
 <img width="789" height="749" alt="SURROGATE TRAINING RANGE" src="https://github.com/user-attachments/assets/dd78224b-dd76-451f-ac40-d79623bcd06a" />

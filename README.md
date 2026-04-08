@@ -4,7 +4,7 @@ This MATLAB Runtime-based app optimizes the CO2 avoided cost of a Hybrid VPSA + 
 PLEASE REFER TO THE TABLE BELOW FOR THE RANGE OF THE CO2-N2 ISOTHERMS AND FEED CO2 COMPOSITIONS FOR WHICH THE PVSA SURROGATE MODELS ARE TRAINED FOR;
 ===================================================================================================================================================
 <img width="1151" height="991" alt="image" src="https://github.com/user-attachments/assets/d7192351-d616-4b96-bd4c-982c9461fc88" />
-===================================================================================================================================================
+
 
 
 

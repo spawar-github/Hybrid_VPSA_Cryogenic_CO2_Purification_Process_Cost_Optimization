@@ -1,5 +1,5 @@
 # Hybrid VPSA + Cryogenic CO2 Purification/Liquefaction Process for Post-combustion CO2 Capture
-This MATLAB Runtime-based app optimizes the CO2 avoided cost of a Hybrid VPSA + Cryogenic CO2 Purification Process for Postcombustion CO2 Capture
+This MATLAB Runtime-based Windows app optimizes the CO2 avoided cost of a Hybrid VPSA + Cryogenic CO2 Purification Process for Postcombustion CO2 Capture
 
 PLEASE REFER TO THE TABLE BELOW FOR THE RANGE OF THE CO2-N2 ISOTHERMS AND FEED CO2 COMPOSITIONS FOR WHICH THE PVSA SURROGATE MODELS ARE TRAINED FOR;
 ==========================================================================
@@ -12,6 +12,6 @@ PLEASE REFER TO THE TABLE BELOW FOR THE RANGE OF THE CO2-N2 ISOTHERMS AND FEED C
 
 
 
-=========================================================================================
-=========================================================================================
+================================================================================
+================================================================================
 <img width="789" height="749" alt="SURROGATE TRAINING RANGE" src="https://github.com/user-attachments/assets/dd78224b-dd76-451f-ac40-d79623bcd06a" />

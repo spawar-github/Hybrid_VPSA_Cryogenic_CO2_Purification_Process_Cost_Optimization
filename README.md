@@ -5,7 +5,7 @@ IMPORTANT (readme):
 =========
 * Please refer to the table below for the range of the CO2-N2 isotherms and feed CO2 molefractions for which the PVSA surrogate models are trained for.
 
-* This Windows program does not need MATLAB licenses to run. We have included  "MATLAB Runtime" (available for free) in the installer along with the program. If you don't already have MATLAB Runtime installed, the program will automatically do that for you. 
+* This application does not need MATLAB licenses to run. We have included  "MATLAB Runtime" (available for free) in the installer along with the program. If you don't already have MATLAB Runtime installed, the program will automatically do that for you. 
 
 * For WINDOWS Users: The "Windows_Application_Installer" file is an .exe file; if Windows Defender blocks it, just right-click the file and go to properties, and at the bottom, enable the check box to unblock security. 
 

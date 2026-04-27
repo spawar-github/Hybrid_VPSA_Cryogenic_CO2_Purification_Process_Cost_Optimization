@@ -3,20 +3,18 @@ This MATLAB Runtime-based Windows app optimizes the CO2 avoided cost of a Hybrid
 
 IMPORTANT (readme):
 =========
-* Please refer to the table below for the range of the CO2-N2 isotherms and feed CO2 molefractions for which the PVSA surrogate models are trained for.
+* Please refer to the table below for the range of the CO2-N2 isotherms and feed CO2 molefractions for which the PVSA surrogate models are trained.
 
 * This application does not need MATLAB licenses to run. We have included  "MATLAB Runtime" (available for free) in the installer along with the program. If you don't already have MATLAB Runtime installed, the program will automatically do that for you. 
 
-* For WINDOWS Users: The "Windows_Application_Installer" file is an .exe file; if Windows Defender blocks it, just right-click the file and go to properties, and at the bottom, enable the check box to unblock security. 
+* For WINDOWS Users: The "Windows_Application_Installer" file is an .exe file; if Windows Defender blocks it, right-click the file and go to properties, and at the bottom, enable the check box to unblock security. 
 
-* For APPLE SILICON/MAC Users: Unzip the "Apple_Silicon_Installer.app.zip" file in Downloads. Then execute the following commands in order in the terminal
+* For APPLE SILICON/MAC Users: Unzip the "Apple_Silicon_Installer.app.zip" file in Downloads. Then execute the commands shown below in the terminal. You may be prompted to enter your Apple password. After entering the password, go back to Downloads and open the unzipped file "Apple_Silicon_Installer.app".
     
 ```sh
 cd Downloads
 sudo xattr -cr Apple_Silicon_Installer.app
 ```
-
-You may be prompted to enter your Apple password. After entering the password, go back to Downloads and open the unzipped file "Apple_Silicon_Installer.app".
 
 The user interface of the app looks as follows:
 ==========================================================================

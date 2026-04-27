@@ -20,7 +20,7 @@ You may be prompted to enter your Apple password. After entering the password, g
 
 The user interface of the app looks as follows:
 ==========================================================================
-<img width="1151" height="991" alt="image" src="https://github.com/user-attachments/assets/d7192351-d616-4b96-bd4c-982c9461fc88" />
+<img width="1146" height="985" alt="Screenshot 2026-04-27 at 6 23 09 PM" src="https://github.com/user-attachments/assets/2e6cdf51-988a-4b65-9563-208d0b4a440e" />
 
 Dual-Site Langmuir (DSL) adsorption isotherm model
 ==========================================================================

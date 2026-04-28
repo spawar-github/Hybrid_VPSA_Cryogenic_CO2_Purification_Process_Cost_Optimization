@@ -9,7 +9,7 @@ IMPORTANT (readme):
 
 * For WINDOWS Users: The "Windows_Application_Installer" file is an .exe file; if Windows Defender blocks it, right-click the file and go to properties, and at the bottom, enable the check box to unblock security. 
 
-* For APPLE SILICON/MAC Users: Unzip the "Apple_Silicon_Installer.app.zip" file in Downloads. Then execute the commands shown below in the terminal. You may be prompted to enter your Apple password. After entering the password, go back to Downloads and open the unzipped file "Apple_Silicon_Installer.app".
+* For APPLE SILICON/MAC Users: Unzip the "Apple_Silicon_Installer.app.zip" file in Downloads. Then execute the commands shown below in the terminal. You may be prompted to enter your Apple password. After executing the commands, go back to Downloads and open the unzipped file "Apple_Silicon_Installer.app".
     
 ```sh
 cd Downloads

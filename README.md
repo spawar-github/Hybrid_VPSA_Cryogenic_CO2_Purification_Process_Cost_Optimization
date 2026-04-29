@@ -1,5 +1,5 @@
 # Hybrid VPSA + Cryogenic CO2 Purification/Liquefaction Process for Post-combustion CO2 Capture
-This MATLAB Runtime-based Windows app optimizes the CO2 avoided cost of a Hybrid VPSA + Cryogenic CO2 Purification Process for Postcombustion CO2 Capture. More details about the integrated techno-economic framework behind the program can be found here. https://doi.org/10.26434/chemrxiv.15000073/v1
+This MATLAB Runtime-based Windows app optimizes the CO2 avoided cost of a Hybrid VPSA + Cryogenic CO2 Purification Process for Postcombustion CO2 Capture. More details about the integrated techno-economic framework behind the program can be found here. https://pubs.acs.org/doi/10.1021/acs.iecr.6c00751
 
 IMPORTANT (readme):
 =========
